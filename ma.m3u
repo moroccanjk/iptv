@@ -1,30 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png, Al Aoula International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png", Al Aoula International (360p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/laayoune.png", Al Aoula Laayoune
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png",Al Aoula Laâyoune (360p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/almaghribia.png", Al Maghribia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (360p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png", Alaraby 2 TV 
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.uk" tvg-logo="https://i.imgur.com/YMqWEe4.png", Alaraby TV 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlwasatTV.ly" tvg-logo="https://i.imgur.com/rwY4sih.png", Alwasat TV  
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png", Arrabiaa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png",Athaqafia (360p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia.png", Arryadia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png",Arryadia (360p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png", Assadissa 
